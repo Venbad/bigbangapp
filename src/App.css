@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.allbutton{
+  background-color:#AAAAAA;
+  border-radius:5px;
+  border:none;
+  padding:5px 5px;
+  margin: 5px;
+  font-size: 14px;
+  font-weight:bolder;
+}
+.addbutton{
+  border-radius:5px;
+  font-weight:bolder;
+}
+.text{
+  border-radius:3px;
+  margin: 25px;
+  height: 25px;
+  width: 300px;
+  font-size:20px;
+}
+.font{
+  margin: 20 px, 0px, 20px, 0px;
+  font-size:30px;
+  font-style:italic;
+  
+}
+.other{
+margin: 20 px, 0px, 20px, 0px;
+	font-size:20px;
+}
+input[type=checkbox]
+{
+  /* Double-sized Checkboxes */
+  -ms-transform: scale(2); /* IE */
+  -moz-transform: scale(2); /* FF */
+  -webkit-transform: scale(2); /* Safari and Chrome */
+  -o-transform: scale(2); /* Opera */
+  padding: 10px;
+}
+.text2{
+  border-radius:3px;
+  height: 25px;
+  width: 200px;
+  font-size:20px;
+  }
